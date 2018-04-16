@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="t1">dasnjdasjdhsahdasdjasdn\r\ndfndfnsdnf</string>
+    <string name="t2">dasnjdasjdhsahdasdjasdn\r\ndfndfnsdnfdasnjdasjdhsahdasdjasdn\r\ndfndfnsdnfdasnjdasjdhsahdasdjasdn
+        \r\ndfndfnsdnfdasnjdasjdhsahdasdjasdn\r\ndfndfnsdnfdasnjdasjdhsahdasdjasdn\r\ndfndfnsdnfdasnjdasjdhsahdasdjasdn
+        \r\ndfndfnsdnfdasnjdasjdhsahdasdjasdn\r\ndfndfnsdnfdasnjdasjdhsahdasdjasdn\r\ndfndfnsdnf</string>
+</resources>

@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.amap.api.maps.AMap com.amap.api.maps.model.Polyline addPolyline(com.amap.api.maps.model.PolylineOptions)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
