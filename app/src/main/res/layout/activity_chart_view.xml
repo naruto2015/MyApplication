@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.gds.test.ChartViewActivity">
+    tools:context="com.gds.test.activity.ChartViewActivity">
     
     
     <com.gds.test.ChartView

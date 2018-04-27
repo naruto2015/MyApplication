@@ -1,4 +1,4 @@
-package com.gds.test;
+package com.gds.test.activity;
 
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
@@ -19,6 +19,7 @@ import com.amap.api.maps.model.PolylineOptions;
 import com.amap.api.trace.LBSTraceClient;
 import com.amap.api.trace.TraceLocation;
 import com.amap.api.trace.TraceStatusListener;
+import com.gds.test.R;
 
 import java.util.ArrayList;
 import java.util.List;

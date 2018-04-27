@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="large_text">
+        去寻找NestedScrollingParent，然后 方法，内部的scrollByInternal中还会回调onNestedScroll方法。\n
+        去寻找NestedScrollingParent，然后 方法，内部的scrollByInternal中还会回调onNestedScroll方法。\n
+        去寻找NestedScrollingParent，然后 方法，内部的scrollByInternal中还会回调onNestedScroll方法。\n
+        去寻找NestedScrollingParent，然后 方法，内部的scrollByInternal中还会回调onNestedScroll方法。\n
+        去寻找NestedScrollingParent，然后 方法，内部的scrollByInternal中还会回调onNestedScroll方法。\n
+        去寻找NestedScrollingParent，然后 方法，内部的scrollByInternal中还会回调onNestedScroll方法。\n
+        去寻找NestedScrollingParent，然后 方法，内部的scrollByInternal中还会回调onNestedScroll方法。\n
+    </string>
+
+</resources>

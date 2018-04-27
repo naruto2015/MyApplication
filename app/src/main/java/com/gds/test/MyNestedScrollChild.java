@@ -89,7 +89,7 @@ public class MyNestedScrollChild extends LinearLayout implements NestedScrolling
         return mScrollingChildHelper;
     }
 
-//以下为接口实现--------------------------------------------------
+    //以下为接口实现--------------------------------------------------
 
     @Override
     public void setNestedScrollingEnabled(boolean enabled) {

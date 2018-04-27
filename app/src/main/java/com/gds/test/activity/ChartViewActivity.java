@@ -1,4 +1,4 @@
-package com.gds.test;
+package com.gds.test.activity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,6 +9,9 @@ import android.os.Bundle;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.view.View;
+
+import com.gds.test.ChartView;
+import com.gds.test.R;
 
 public class ChartViewActivity extends AppCompatActivity {
 
